@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Task02</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- SplashActivity -->
+    <string name="splash_image">Splash Image</string>
+
+    <!-- StartFragment -->
+    <string name="splash_text">My Quest</string>
+    <string name="text_welcome">Welcome to My Quest</string>
+    <string name="text_instructions">After pressing \"START QUEST\" you will start the quest. After selecting the correct answer, the next question will pop up. After responding to the last question, the app returns to the welcome page.</string>
+    <string name="button_start_quest">Start Quest</string>
+    <string name="button_confirm">Confirm</string>
+
+    <!-- QuestionFragment -->
+    <string name="question_counter">%1$d/%2$d</string>
+    <string name="wrong_answer">Wrong Answer!</string>
+    <string name="quest_completed">Quest successfully completed!</string>
+</resources>
